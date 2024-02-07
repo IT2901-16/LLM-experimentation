@@ -3,4 +3,3 @@ models/llama-2-7b-chat.ggmlv3.q2_K.bin
 faiss/
 faiss
 models/
-data/*

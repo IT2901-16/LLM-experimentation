@@ -21,7 +21,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-5. Add all the pdf documents you want to interact with in the "data" folder.
+5. Create a data directory and place pdf files in it. 
 
 6. Create the vector store
 ```bash
